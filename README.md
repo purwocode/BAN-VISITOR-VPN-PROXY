@@ -3,4 +3,4 @@
 1.BLOCK IP VISITOR YANG MENGGUNAKAN VPN/PROXY<br>
 2.MENDETEKSI LOKASI VISITOR<br>
 3.MENDETEKSI ISP<br>
-4.Mengoleksi Data Dan mempost Ke Firebase dalam bentuk Json<br>
+4.Mengoleksi Data Dan Mengirimkan data Ke Firebase dalam bentuk Json<br>
